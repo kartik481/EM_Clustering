@@ -8,7 +8,7 @@ Download .cpp file.
 
 ### Prerequisites
 
-C++ Compiler.
+C++ 14 Compiler.
 
 ```
 GNU Compiler Collection
